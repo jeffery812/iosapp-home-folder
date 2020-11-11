@@ -3,7 +3,7 @@ An Alfred 4 workflow for getting your App home folder of your active simulator.
 
 ## Usage:
 ```
-iosapp [you.app.bundle.id]
+iosapp [Enter]
 ```
 <img src="./resources/usage.png">
 
